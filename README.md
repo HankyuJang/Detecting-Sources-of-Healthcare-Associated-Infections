@@ -1,6 +1,8 @@
-# Source Detection
+# Detecting Sources of Healthcare Associated Infections
 
-This README is for replicating the experiments on the Carilion dataset.
+__Paper__: Hankyu Jang, Andrew Fu, Jiaming Cui, Methun Kamruzzaman, B. Aditya Prakash, Anil Vullikanti, Bijaya Adhikari and Sriram Pemmaraju, "Detecting Sources of Healthcare Associated Infections," AAAI Conference on Artificial Intelligence. (AAAI 2023). Feb 2023, Washington, DC
+
+Follow the instructions here to replicate experiments on the Carilion dataset, which is publicly available data.
 
 ## Software
 
